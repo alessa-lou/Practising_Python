@@ -1,3 +1,1 @@
-Learning Python through a few smaller projects:
-
-* FizzBuzz
+Created FizzBuzz app to practise Python syntax
